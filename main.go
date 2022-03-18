@@ -31,7 +31,7 @@ func main() {
 	p := &parametersDatabase{
 		Hostname: "localhost",
 		Username: "postgres",
-		Password: "!First@14131413",
+		Password: "password",
 		Database: "argon2",
 		Port:     5432,
 		SSL:      false,
